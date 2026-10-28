@@ -32,7 +32,7 @@ Game Hub is a browser-based project built with React.js that brings Tic Tac Toe 
 - A player-name input and welcome display.
 - Dark styling with blue navigation buttons.
 
-## My Role
+## Development Highlights
 
 Developed the Game Hub web application using React.js.
 
